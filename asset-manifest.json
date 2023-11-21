@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/doctor-appointment/static/css/main.f88db314.css",
+    "main.js": "/doctor-appointment/static/js/main.4602d6fe.js",
+    "static/js/787.0993de94.chunk.js": "/doctor-appointment/static/js/787.0993de94.chunk.js",
+    "static/media/Dentist.jpg": "/doctor-appointment/static/media/Dentist.b272dd23f277bcda51e1.jpg",
+    "static/media/Gynecologist.jpg": "/doctor-appointment/static/media/Gynecologist.9b209997ee33d743fd81.jpg",
+    "static/media/Dietitian.jpg": "/doctor-appointment/static/media/Dietitian.16e5abbed50493cf6311.jpg",
+    "static/media/logo.png": "/doctor-appointment/static/media/logo.22d1a16350a3bb4ed0db.png",
+    "index.html": "/doctor-appointment/index.html",
+    "main.f88db314.css.map": "/doctor-appointment/static/css/main.f88db314.css.map",
+    "main.4602d6fe.js.map": "/doctor-appointment/static/js/main.4602d6fe.js.map",
+    "787.0993de94.chunk.js.map": "/doctor-appointment/static/js/787.0993de94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f88db314.css",
+    "static/js/main.4602d6fe.js"
+  ]
+}
