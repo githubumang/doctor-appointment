@@ -9,7 +9,7 @@ export const Header = () => {
     <div className="bg-blue-600 py-3">
         <div className="container mx-auto">
             <div className="flex flex-row">
-            <Link to={'../'}> <img src={logo} style={{height: 30 }} alt='logo'/></Link>
+            <Link to={'../Home'}> <img src={logo} style={{height: 30 }} alt='logo'/></Link>
               {listHeader.map((item) => {
                 return (
                   <Link to={`/${item}`} key={item}>
