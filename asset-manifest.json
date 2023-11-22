@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/doctor-appointment/static/css/main.6c4c7544.css",
-    "main.js": "/doctor-appointment/static/js/main.50da9e17.js",
+    "main.js": "/doctor-appointment/static/js/main.ae23cedd.js",
     "static/js/787.0993de94.chunk.js": "/doctor-appointment/static/js/787.0993de94.chunk.js",
     "static/media/Dentist.jpg": "/doctor-appointment/static/media/Dentist.b272dd23f277bcda51e1.jpg",
     "static/media/Gynecologist.jpg": "/doctor-appointment/static/media/Gynecologist.9b209997ee33d743fd81.jpg",
@@ -10,11 +10,11 @@
     "static/media/calendar.png": "/doctor-appointment/static/media/calendar.bc36132854d0d5887c25.png",
     "index.html": "/doctor-appointment/index.html",
     "main.6c4c7544.css.map": "/doctor-appointment/static/css/main.6c4c7544.css.map",
-    "main.50da9e17.js.map": "/doctor-appointment/static/js/main.50da9e17.js.map",
+    "main.ae23cedd.js.map": "/doctor-appointment/static/js/main.ae23cedd.js.map",
     "787.0993de94.chunk.js.map": "/doctor-appointment/static/js/787.0993de94.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c4c7544.css",
-    "static/js/main.50da9e17.js"
+    "static/js/main.ae23cedd.js"
   ]
 }
